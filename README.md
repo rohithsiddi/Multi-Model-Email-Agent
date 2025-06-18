@@ -5,6 +5,7 @@ A sophisticated automated sales email system that leverages multiple LLM models,
 ## Features
 
 - **Multiple Model Integration**: Seamlessly integrates with OpenAI, DeepSeek, Google Gemini, and Groq (Llama 3.3) models
+- **OpenAI SDK Framework**: Utilizes the official OpenAI SDK for robust interaction with models
 - **Agent Orchestration**: Coordinates multiple specialized agents to generate, format, and send emails
 - **Guardrails Implementation**: Includes input guardrails to prevent using personal names
 - **Structured Output**: Uses Pydantic models for structured data validation
